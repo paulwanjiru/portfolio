@@ -1,4 +1,5 @@
 import type { NextConfig } from "next";
+basePath: "/portfolio"
 
 const nextConfig: NextConfig = {
   /* config options here */
