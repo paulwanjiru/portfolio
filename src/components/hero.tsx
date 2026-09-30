@@ -18,7 +18,7 @@ export function Hero() {
         {/* Portrait Image positioned on the right on desktop, full bleed on mobile */}
         <div className="absolute right-0 top-0 bottom-0 w-full lg:w-[58%] h-full">
           <Image
-            src="/paul-wanjiru.jpg"
+            src="/img/img.jpeg"
             alt="Paul Wanjiru - Full-Stack Developer & Systems Builder"
             fill
             priority
