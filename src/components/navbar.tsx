@@ -63,7 +63,7 @@ export function Navbar() {
             >
               <div className="relative w-8 h-8 sm:w-9 sm:h-9 rounded-xl overflow-hidden border border-blue-500/30 bg-zinc-900 shrink-0 shadow-xs group-hover:border-blue-500 transition-colors">
                 <Image
-                  src="/img/img.jpeg"
+                  src={`${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}/img/img.jpeg`}
                   alt="Paul Wanjiru"
                   fill
                   priority

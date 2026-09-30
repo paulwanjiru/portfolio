@@ -79,7 +79,7 @@ export function AboutSection() {
             <div className="flex items-center gap-4 border-b border-[var(--border)] pb-4">
               <div className="relative w-16 h-16 rounded-2xl overflow-hidden border-2 border-blue-500/30 bg-zinc-900 shrink-0 shadow-md">
                 <Image
-                  src="/img/img.jpeg"
+                  src={`${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}/img/img.jpeg`}
                   alt="Paul Wanjiru"
                   fill
                   sizes="64px"
