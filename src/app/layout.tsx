@@ -38,17 +38,17 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_KE",
-    url: "https://www.infrabitsystems.co.ke",
-    title: "InfraBit Systems | Web Dev, Custom Software, Hosting & Hardware Supply",
+    url: "https://paulwanjiru.github.io/portfolio/",
+    title: "Paul Wanjiru | Full-Stack Software Engineer & Systems Developer",
     description:
-      "Professional digital solutions for African businesses. High-performance web development, custom software tailoring, premium hosting, and reliable hardware supply.",
-    siteName: "InfraBit Systems",
+      "Full-Stack Software Engineer and Systems Developer based in Nakuru City, Kenya. Production web platforms, college portals, and e-commerce storefronts with M-PESA integrations.",
+    siteName: "Paul Wanjiru Portfolio",
   },
   twitter: {
     card: "summary_large_image",
-    title: "InfraBit Systems | Web Dev, Custom Software, Hosting & Hardware Supply",
+    title: "Paul Wanjiru | Full-Stack Software Engineer & Systems Developer",
     description:
-      "Professional digital solutions for African businesses. High-performance web development, custom software tailoring, premium hosting, and reliable hardware supply.",
+      "Full-Stack Software Engineer and Systems Developer based in Nakuru City, Kenya. Production web platforms, college portals, and e-commerce storefronts with M-PESA integrations.",
   },
   icons: {
     icon: "/favicon.ico",

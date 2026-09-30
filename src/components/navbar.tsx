@@ -66,6 +66,8 @@ export function Navbar() {
                   src="/paul-wanjiru.jpg"
                   alt="Paul Wanjiru"
                   fill
+                  priority
+                  loading="eager"
                   sizes="36px"
                   className="object-cover object-top"
                 />
